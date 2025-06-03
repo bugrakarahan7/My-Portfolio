@@ -14,5 +14,6 @@ Canlı olarak aşağıdaki bağlantıdan erişebilirsiniz:
 
 ## 🛠️ Kullanılan Teknolojiler
 - Framer
+- Spline
 - No-code design tools
 - Responsive layout design
